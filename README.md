@@ -1,5 +1,5 @@
 
-# ⋆. 𐙚 ˚ Fans-town1 ˚ 𐙚 .⋆
+## ⋆. ୨୧˚⋆ Fans town⋆. ୨୧˚⋆ 
 
 > *“Pony of fans! Inspiration by pt-hall-of-media”*
 
@@ -21,4 +21,4 @@
 * **Strawpage:** [fanstown.straw.page](https://straw.page)
 
 ---
-
+<img src="sticker-mlp-applejack.jpg" align="right" width="250" alt="Profile Image" />
