@@ -18,7 +18,7 @@
 ---
 
 ### Nominate here
-* **Strawpage:** [fanstown.straw.page](https://straw.page)
+* **Strawpage:** [fanstown.straw.page](https://fanstown.straw.page/)
 
 ---
 <img src="sticker-mlp-applejack.jpg" align="right" width="250" alt="Profile Image" />
